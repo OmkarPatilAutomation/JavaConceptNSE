@@ -2,9 +2,13 @@ package com.nse.students;
 
 public class Student {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	//States of Student
+	public int studentId;
+	public String studentName;
+	public String studentMailid;
+	public double studentPercentage;
+	public String schoolName;
 
-	}
+	
 
 }

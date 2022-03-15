@@ -25,6 +25,8 @@ public class StudentTest {
 		stu3.studentPercentage = 56.2;
 		stu3.schoolName = "Global school";
 		
+		Student.printStudentDetails(stu2);
+		
 	}
 
 }

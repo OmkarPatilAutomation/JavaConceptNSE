@@ -23,7 +23,7 @@ public class EmployeeTest {
 		emp3.employeeSalary = 9000;
 		emp3.companyName = "NSE";
 
-		Employee.employeeDetails(emp2);
+		Employee.printEmployeeDetails(emp2);
 	}
 
 }
